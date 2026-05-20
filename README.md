@@ -3,7 +3,7 @@
 > 一个**会闭嘴**的喝水提醒。不靠定时器，靠对话氛围。
 > 绝大多数时候它沉默，开口时只用两行。
 
-**语言 / Languages**: [简体中文](README.zh-CN.md) · [English](README.en.md)
+**语言 / Languages**: 简体中文 · [English](README.en.md)
 
 [![Skill](https://img.shields.io/badge/Claude-Skill-1E40AF)](#)
 [![License](https://img.shields.io/badge/license-MIT-black)](#license)

@@ -3,7 +3,7 @@
 > A water reminder **that knows how to shut up.** No timers, just vibes.
 > Most of the time it stays silent. When it speaks, it uses two lines.
 
-**Languages**: [English](README.en.md) · [简体中文](README.zh-CN.md)
+**Languages**: English · [简体中文](README.md)
 
 [![Skill](https://img.shields.io/badge/Claude-Skill-1E40AF)](#)
 [![License](https://img.shields.io/badge/license-MIT-black)](#license)
